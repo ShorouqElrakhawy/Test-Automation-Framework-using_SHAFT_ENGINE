@@ -30,3 +30,6 @@
 - OpenCV
 - Applitools Eyes
 - Jenkins, GitHub Actions, or any CI/CD tool
+
+For more details 
+https://github.com/MohabMohie/SHAFT_ENGINE
