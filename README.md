@@ -1,4 +1,4 @@
-### SHAFT is the Selenium Hybrid Automation Framework for Testing, it is:
+### SHAFT ENGINE is the Selenium Hybrid Automation Framework for Testing, it is:
 - A Test Automation Engine.
 - A source controlled Java 14 Maven project that is easily and regularly extended and enhanced with new features.
 - Provides an easily understandable and user-friendly syntax for writing simple, robust, maintainable, and extendable tests.
